@@ -1,0 +1,1 @@
+{"version":3,"sources":["script.js"],"names":["swiper","Swiper","slidesPerView","spaceBetween","navigation","nextEl","prevEl"],"mappings":"AAAA,IAAIA,OAAS,IAAIC,OAAO,iCAAkC,CACtDC,cAAe,EACfC,aAAc,GACdC,WAAY,CACRC,OAAQ,iCACRC,OAAQ","file":"script.js"}
